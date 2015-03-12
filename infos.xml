@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[logauth]]></title>
+	<author><![CDATA[Cyril Maguire]]></author>
+	<version>1.1</version>
+	<date>23/07/2012</date>
+	<site>http://www.ecyseo.net</site>
+	<description><![CDATA[Permet d'enregistrer les logs d'accès à votre PluXml. D'après le travail réalisé par Mordred]]></description>
+	<requirements></requirements>
+</document>
